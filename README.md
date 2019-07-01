@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/khalil-salem/fibonacci-with-test.svg?branch=master)](https://travis-ci.org/khalil-salem/fibonacci-with-test)
+
 # fibonacci-with-test
 Created a test file for the function x in NetBeans via JUnit testing
 Tried to put this testcase : 
