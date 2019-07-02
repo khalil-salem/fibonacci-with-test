@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/khalil-salem/fibonacci-with-test.svg?branch=master)](https://travis-ci.org/khalil-salem/fibonacci-with-test)
 
 # fibonacci-with-test
-Created a test file for the function x in NetBeans via JUnit testing
+Created a test file for the function fib in NetBeans via JUnit testing
 Tried to put this testcase : 
 public void testX() {
         int output1=Main.x(4);
@@ -13,3 +13,4 @@ public void testX() {
 I added the (.travis.yml) file in the project files and set the language to java and the jdk to 11 .
 Ive done the pull and push from the (git) options for the project 
 and could commit the project to GitHub from netbeans 
+
