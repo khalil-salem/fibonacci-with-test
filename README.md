@@ -13,4 +13,6 @@ public void testX() {
 I added the (.travis.yml) file in the project files and set the language to java and the jdk to 11 .
 Ive done the pull and push from the (git) options for the project 
 and could commit the project to GitHub from netbeans 
+*****
+Removed all NetBeans files
 
